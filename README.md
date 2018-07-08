@@ -15,3 +15,6 @@ MIT
   
 # Si quieres colaborar
 - Haz un pull request con las mejoras o coméntame por DM en twitter
+
+# Recursos de terceros
+- Las imágenes son cortesia de https://source.unsplash.com/
