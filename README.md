@@ -7,11 +7,11 @@ Estudio y experimentación sobre el layout estilo manpostería sin librerías ad
 - Invocar a la función inicializarTiles(...)
   - Los parámetros esperados son: selector del contenedor de elementos a organizar, y ancho mínimo de las columnas
   
-  # Versión
-  beta temprana
+# Versión
+beta temprana
   
-  #Licencia
-  MIT
+# Licencia
+MIT
   
-  # Si quieres colaborar
-  - Haz pull request con las mejoras o coméntame por DM en twitter
+# Si quieres colaborar
+- Haz un pull request con las mejoras o coméntame por DM en twitter
