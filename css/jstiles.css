@@ -1,0 +1,30 @@
+.contenedor {
+    margin    : 0 auto;
+    width     : 100%;
+    min-height: 1rem;
+    display   : flex;
+    min-width : 250px;
+  }
+  .columna {
+    flex: 1;
+  }
+  .card {
+    margin       : 5% 2.5%;
+    min-width    : 50px;
+    min-height   : 50px;
+    border-radius: 10px;
+    display      : flex;
+    align-items  : center;
+    justify-content: center;
+    position     : relative;
+    overflow     : hidden;
+    background-color: #dfdfdf;
+  }
+  button, input {
+    cursor       : pointer;
+    margin       : .5rem 0 0;
+    padding      : .5rem 1rem;
+    border-radius: 1rem;
+    border       : 1px solid #ddd;
+    outline      : none;
+  }
